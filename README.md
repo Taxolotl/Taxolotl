@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taxolotl
 - 👀 I’m interested in portal logic
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on absolutely nothing.
 - 📫 How to reach me you can reach me at (#%*))(#*(@))$()#
 
