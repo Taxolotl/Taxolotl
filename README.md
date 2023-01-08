@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taxolotl
 - 👀 I’m interested in portal logic
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on absolutely nothing.
-- 📫 How to reach me you can reach me at (248)434-5508 (call-only)
+- 💞️ I’m looking to collaborate on ~~absolutely nothing~~ a few projects in Unity, if you are up to helping me.
+- 📫 How to reach me you can reach me at (248)434-5508 (call-only).
