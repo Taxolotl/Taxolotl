@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @Taxolotl
-- 👀 I’m interested in Minecraft modding
-- 🌱 I’m currently learning to drive
-- 💞️ I’m looking to collaborate on my minecraft mod, but I have no money so don't ask if you are looking to earn money. (however if the project starts earning money somehow, I will split that)
-- 📫 You can reach me at (248)434-5508 (call-only).
+![Taxolotl's GitHub stats](https://github-readme-stats.vercel.app/api?username=taxolotl&theme=github_dark)
+
+## Working on 🧑‍🏭
+* :axolotl: [theaxolotlmod](https://github.com/theaxolotlmod/theaxolotlmod), a mod intended to make axolotls more realistic in Minecraft(for various reasons, read the readme).
+
+## Learning 📖
+* 🌐︎ C++
+* 📚 Raylib
+
+## Wants to learn
+* 🌐︎ Typescript
