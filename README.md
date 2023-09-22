@@ -2,9 +2,9 @@
 
 ## Working on 🧑‍🏭
 * :axolotl: [theaxolotlmod](https://github.com/theaxolotlmod/theaxolotlmod), a mod intended to make axolotls more realistic in Minecraft(for various reasons, read the readme).
+* 🎮 [Idk some kind of game that I have yet to start made with RayLib or some other C++ game library](about:blank)
 
 ## Learning 📖
-* 🌐︎ C++
 * 📚 Raylib
 
 ## Wants to learn 📕
