@@ -7,5 +7,5 @@
 * 🌐︎ C++
 * 📚 Raylib
 
-## Wants to learn
+## Wants to learn 📕
 * 🌐︎ Typescript
